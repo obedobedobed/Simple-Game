@@ -1,2 +1,6 @@
 # Simple-Game
-My first game made without an engine (with Monogame)
+Pretty simple game, where Tux is walking (just walking...)
+
+Made for practice with Monogame
+
+Using .NET 9.0
